@@ -8,4 +8,4 @@
 - Purpose: For students to buy/sell easily 
 
 # Programming language
-- HTML/CSS
+- HTML/CSS frontend language
