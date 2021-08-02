@@ -10,3 +10,4 @@
 
 # Programming language
 - HTML/CSS frontend language
+- Going to use SQL to store student's information on database?
