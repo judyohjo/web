@@ -6,7 +6,7 @@
 - Students can share their stories of university life and ask questions
 - Students from any institutions can join
 - Purpose: For students to buy/sell easily to other fellow students
-- Name od website: ShareIT
+- Name od website: ShareIt
 
 # Programming language
 - HTML/CSS frontend language
