@@ -6,8 +6,8 @@
 - Students can share their stories of university life and ask questions
 - Students from any institutions can join
 - Purpose: For students to buy/sell easily to other fellow students
-- Name od website: ShareIt
+- Name of website: ShareIt
 
 # Programming language
 - HTML/CSS frontend language
-- Using knowledge learnt from Summer of Tech bootcamp
+- Using knowledge learnt from Summer of Tech bootcamp 
