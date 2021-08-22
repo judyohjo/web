@@ -1,4 +1,4 @@
-# Creating a website
+# Creating a website (ShareIt)
 - A platform that allows students to communicate with other students easily when selling and buying secondhand goods
 - Creating a website for students to sell second hand textbooks/lab coats and etc
 - They can create their own account and upload post on what to sell
