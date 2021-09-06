@@ -20,10 +20,19 @@ body {
   background: #63a9d8;
   color: white;
 }
+.subheader {
+  padding: 90px;
+  text-align: center;
+  background: white;
+  color: black;
+}
 
 /* Increase the font size of the h1 element */
 .header h1 {
   font-size: 60px;
+}
+.subheader h2 {
+  font-size: 30px;
 }
 .navbar {
   overflow: hidden;
@@ -56,28 +65,57 @@ body {
 </head>
 <body>
 
+<!-- Title -->
 <div class="header">
-  <h1>ShareIt</h1>
-  <p>A platform that allows students to communicate with other students easily when selling and buying secondhand goods</p>
+    <h1>ShareIt</h1>
+    <p>A platform that allows students to communicate with other students easily when selling and buying secondhand goods</p>
 </div>
+
+<!-- Navigation bars -->
 <div class="navbar">
-  <a href="#" class="left">My Page</a>
-  <a href="#" class="center">Student Stories</a>
-  <a href="#" class="center">Buy & Sell</a>
-  <a href="#" class="right">Contact</a>
+  <a href="#mypage" class="left">My Page</a>
+  <a href="#studentstories" class="center">Student Stories</a>
+  <a href="#buy&sell" class="center">Buy & Sell</a>
+  <a href="#signup" class="right">Sign up</a>
+  <a href="#contact" class="right">Contact</a>
 </div>
-<div class="row">
-  <div class="center">
-    <h2>Welcome to ShareIt!</h2>
-    <h5>It was founded in 2021</h5>
-    <p> Are you a University student? If so, sign up now! </p>
-    <img src="library.jpg" alt="library" class="center" style = "width:50%">
+
+
+<div class="subheader">
+    <h2 class="center">Welcome to ShareIt!</h2>
+    <h5 class = "center">It was founded in 2021</h5>
+    <p class = "center"> Are you a University student? If so, sign up now! </p>
     
 </div>
+
+<!-- Images -->
+<section>
+  <img class="mySlides" src="auckland.jpg"
+  style="width:100%">
+  <img class="mySlides" src="library.jpg"
+  style="width:100%">
+</section>
   
 <div class="footer">
   <h2>Copyright ©ShareIt 2021 </h2>
 </div>
 
+<script>
+  var index = 0;
+  carousel();
+  
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    index++;
+    if (index > x.length) {index = 1}
+    x[index-1].style.display = "block";
+    setTimeout(carousel, 3000);
+  }
+  </script>
+  
 </body>
 </html>
