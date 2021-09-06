@@ -11,4 +11,5 @@
 
 # Programming language
 - HTML/CSS frontend language
-- Using knowledge learnt from Summer of Tech bootcamp 
+- Using Visual Studio Code
+- Using knowledge learnt from the University and Summer of Tech bootcamp 
