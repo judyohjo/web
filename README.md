@@ -17,3 +17,5 @@
 
 # Systems
 - Will need multiple systems (one system to save ID and PW, where we pull out student information by using ID)
+- Use SQL to save login data?
+- Security!!
