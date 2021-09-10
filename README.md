@@ -15,7 +15,7 @@
 - Using knowledge learnt from the University and Summer of Tech bootcamp 
 
 
-# Systems
+# Systems / Data 
 - Will need multiple systems (one system to save ID and PW, where we pull out student information by using ID)
 - Use SQL to save login data?
-- Security!!
+- Security is a key!
