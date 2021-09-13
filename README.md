@@ -13,10 +13,10 @@
 # Programming language
 - HTML/CSS frontend language
 - Using Visual Studio Code
-- Using knowledge learnt from the University and Summer of Tech bootcamp 
+- Using knowledge learnt from the University and Summer of Tech bootcamp
 
 
 # Systems / Data 
 - Will need multiple systems (one system to save ID and PW, where we pull out student information by using ID)
-- Use SQL to save login data?
-- Security is a key!
+- Use SQL and database to save login data?
+- Security is a key here when saving student information!
