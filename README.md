@@ -14,7 +14,7 @@
 
 # Programming language
 - HTML/CSS frontend language
-- PHP
+- PHP script language
 - Using Visual Studio Code
 - Using knowledge learnt from the University and Summer of Tech bootcamp
 
