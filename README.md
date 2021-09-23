@@ -8,7 +8,7 @@
 - Students can comment below on the feed
 - Students can share their stories of university life and ask questions
 - Students from any institutions can join
-- Students can write course reviews 
+- Students can write course reviews (if they want to they can do it annonymously?)
 - Purpose: For students to buy/sell easily to other fellow students
 - Images from Pixabay
 
