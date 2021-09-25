@@ -1,5 +1,5 @@
 # Creating a website (ShareIt)
-- Name of website: ShareIt
+- **Name of website:** ShareIt
 
 # Features 
 - A platform that allows students to communicate with other students easily when selling and buying secondhand goods
