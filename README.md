@@ -2,7 +2,7 @@
 - **Name of website:** ShareIt
 
 # Features 
-- **Purpose:** For students to buy/sell easily to other fellow students
+- **Purpose:** For students to share university stories, course reviews and buy/sell easily
 - **About the platform:** A platform that allows students to communicate with other students easily when selling and buying secondhand goods
 - Creating a website for students to sell second hand textbooks/lab coats and etc
 - They can create their own account and upload post on what to sell
