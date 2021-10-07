@@ -24,5 +24,5 @@
 - Will need multiple systems (one system to save ID and PW, where we pull out student information by using ID)
 - Use SQL and database to save student information/data and retrieve their data 
 - Connecting HTML website to SQL database using PHP (to create a server page and to connect to SQL)
-- Security is a key here when saving student information!
+- Security is a key here when storing student information to the student database!
 
