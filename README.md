@@ -19,7 +19,7 @@
 - HTML/CSS frontend language
 - PHP script language
 - Using Visual Studio Code
-- Using knowledge learnt from the University and Summer of Tech bootcamp
+- Using knowledge learnt from the University
 
 
 # Systems / Data / Security
