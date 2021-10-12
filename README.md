@@ -19,7 +19,6 @@
 - HTML/CSS frontend language
 - PHP script language
 - Using Visual Studio Code
-- Using knowledge learnt from the University
 
 
 # Systems / Data / Security
