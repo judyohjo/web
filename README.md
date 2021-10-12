@@ -14,6 +14,9 @@
 - Images from Pixabay
 - **Reason for creating the website:** I realised there weren't any websites/platforms that integrates selling/buying, sharing stories, sharing course reviews and etc. 
 
+# Creating profile for students
+- **Information required:** Student name, name of the University/Tertiary education
+
 
 # Programming language
 - HTML/CSS frontend language
