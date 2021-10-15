@@ -19,8 +19,9 @@
 
 
 # Programming language
-- HTML/CSS frontend language
+- HTML/CSS frontend language for design of the website
 - PHP script language
+- SQL database language
 - Using Visual Studio Code
 
 
