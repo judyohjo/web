@@ -20,7 +20,7 @@
 
 # Programming language
 - HTML/CSS frontend language for design of the website
-- PHP script language
+- PHP script language for creating a server page
 - SQL database language for storing student data 
 - (Software used) Using Visual Studio Code
 
