@@ -31,3 +31,7 @@
 - Connecting HTML website to SQL database using PHP (to create a server page and to connect to SQL)
 - Security is a key here when storing student information to the student database!
 
+# Checklist
+- Design of the webpage (half done)
+- Connecting SQL 
+
