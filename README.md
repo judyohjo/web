@@ -32,6 +32,6 @@
 - Security is a key here when storing student information to the student database!
 
 # Checklist
-[x] Design of the webpage (half done)
-[] Connecting SQL 
+* [] Design of the webpage (half done)
+* [] Connecting SQL 
 
