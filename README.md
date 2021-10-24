@@ -34,4 +34,5 @@
 # Checklist
 - [ ] Design of the webpage (half done)
 - [ ] Connecting SQL 
+- [ ] Connecting each webpages
 
