@@ -38,4 +38,6 @@
 - [ ] About Us page
 - [ ] Student page
 - [ ] Course reviews page
+- [ ] Homepage
+- [ ] Buy and Sell page
 
