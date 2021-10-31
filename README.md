@@ -40,4 +40,4 @@
 - [ ] Course reviews page
 - [ ] Homepage
 - [ ] Buy and Sell page
-- [x] Sign up page
+- [x] Sign up page (register page)
