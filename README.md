@@ -30,6 +30,7 @@
 - Use SQL and database to save student information/data and retrieve their data 
 - Connecting HTML website to SQL database using PHP (to create a server page and to connect to SQL)
 - Security is a key here when storing student information to the student database!
+- maybe a two factor authentication? 
 
 # Checklist
 - [ ] Design of the webpage (half done)
