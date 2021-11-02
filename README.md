@@ -33,12 +33,12 @@
 - maybe a two factor authentication? 
 
 # Checklist
-- [ ] Design of the webpage (half done)
+- [ ] Design of the webpage
 - [ ] Connecting SQL 
 - [ ] Connecting each webpages
 - [ ] About Us page
 - [ ] Student page
 - [ ] Course reviews page
-- [ ] Homepage
+- [ ] Homepage (half done)
 - [ ] Buy and Sell page
 - [x] Sign up page (register page)
