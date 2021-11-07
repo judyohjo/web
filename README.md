@@ -19,7 +19,7 @@
 
 
 # Programming language
-- HTML/CSS frontend language for design of the website
+- HTML/CSS frontend language for design of the website/webpage
 - PHP script language for creating a server page
 - SQL database language for storing student data 
 - (Software used) Using Visual Studio Code
@@ -41,4 +41,5 @@
 - [ ] Course reviews page
 - [ ] Homepage (half done)
 - [ ] Buy and Sell page
+- [ ] If possible integrate with other SNS?
 - [x] Sign up page (register page)
