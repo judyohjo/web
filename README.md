@@ -36,7 +36,7 @@
 - [ ] Design of the webpage
 - [ ] Connecting SQL 
 - [ ] Connecting each webpages
-- [ ] About Us page
+- [ ] About Us page (1/4 done)
 - [ ] Student page
 - [ ] Course reviews page
 - [ ] Homepage (half done)
