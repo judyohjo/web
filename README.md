@@ -41,5 +41,5 @@
 - [ ] Course reviews page
 - [ ] Homepage (half done)
 - [ ] Buy and Sell page
-- [ ] If possible integrate with other SNS?
+- [ ] If possible integrate with other SNS platforms 
 - [x] Sign up page (register page)
