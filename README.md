@@ -36,7 +36,7 @@
 - [ ] Design of the webpage
 - [ ] Connecting SQL 
 - [ ] Connecting each webpages
-- [ ] About Us page (1/4 done)
+- [ ] About Us page (1/4 done) - our purpose and why I decided to build the platform
 - [ ] Student page
 - [ ] Course reviews page
 - [ ] Homepage (half done)
