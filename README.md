@@ -22,7 +22,8 @@
 - HTML/CSS frontend language for design of the website/webpage
 - PHP script language for creating a server page
 - SQL database language for storing student data 
-- (Software used) Using Visual Studio Code
+- (Software used) Using Visual Studio 2019
+- Azure 
 
 
 # Systems / Data / Security
