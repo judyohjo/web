@@ -23,6 +23,7 @@
 - PHP script language for creating a server page
 - SQL database language for storing student data 
 - (Software used) Using Visual Studio 2019
+- Use SQL Server Management Studio 2018 for the database
 - Azure 
 
 
