@@ -44,5 +44,6 @@
 - [ ] Course reviews page
 - [ ] Homepage (half done)
 - [ ] Buy and Sell page
+- [ ] Think about service and controllers
 - [ ] If possible integrate with other SNS platforms 
 - [x] Sign up page (register page)
