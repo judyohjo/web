@@ -35,6 +35,8 @@
 - Maybe a two factor authentication? 
 - browser -> frontend (html/css) -> controller -> services -> entity frameworks -> database
 
+# ERD diagram
+
 # Checklist
 - [ ] Design of the webpage
 - [ ] Connecting SQL 
